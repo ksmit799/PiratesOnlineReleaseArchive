@@ -1,0 +1,1023 @@
+
+
+Starting Pirates...
+Current time: Thu Nov 27 11:53:22 2008 Eastern Standard Time
+sys.path =  ['']
+sys.argv =  ['Pirates']
+os.environ =  {'TMP': 'C:\\DOCUME~1\\Robert\\LOCALS~1\\Temp', 'DOWNLOAD_SERVER': 'http://download.piratesonline.com/english/currentVersion/content/', 'COMPUTERNAME': 'ROBERT-WHHMW79K', 'USERDOMAIN': 'ROBERT-WHHMW79K', 'GAME_INGAME_UPGRADE': 'http://apps.pirates.go.com/pirates/redirect?redirectId=upgrade', 'COMMONPROGRAMFILES': 'C:\\Program Files\\Common Files', 'PROCESSOR_IDENTIFIER': 'x86 Family 15 Model 1 Stepping 2, GenuineIntel', 'CFG_PATH': '.', 'GAME_INGAME_MANAGE_ACCT': 'https://apps.pirates.go.com/pirates/v3/index?pageId=manageAccount', 'PROCESSOR_REVISION': '0102', 'SYSTEMROOT': 'C:\\WINDOWS', 'PATH': ';.', 'TEMP': 'C:\\DOCUME~1\\Robert\\LOCALS~1\\Temp', 'GAME_INGAME_NAMING': 'http://apps.pirates.go.com/pirates/v3/#/help/name_approvals.html', 'PROCESSOR_ARCHITECTURE': 'x86', 'GAME_ADFRAME_BUTTON_5': 'http://apps.pirates.go.com/pirates/redirect?redirectId=memopts', 'ALLUSERSPROFILE': 'C:\\Documents and Settings\\All Users', 'GAME_ADFRAME_BUTTON_1': 'http://apps.pirates.go.com/pirates/v3/index?pageId=getUnlimitedAccess', 'GAME_ADFRAME_BUTTON_6': 'https://apps.pirates.go.com/pirates/v3/index?pageId=manageAccount', 'SESSIONNAME': 'Console', 'HOMEPATH': '\\Documents and Settings\\Robert', 'PROCESSOR_LEVEL': '15', 'GAME_USERNAME': 'asianelephant1@comcast.net', 'GAME_SERVER': 'http://gameserver.piratesonline.com:7667;http://gameserver.piratesonline.com:80;https://gameserver.piratesonline.com:443', 'USERNAME': 'Robert', 'LOGONSERVER': '\\\\ROBERT-WHHMW79K', 'COMSPEC': 'C:\\WINDOWS\\system32\\cmd.exe', 'PYTHONPATH': '.', 'ADFRAME_125X125': 'http://disney.go.com/pirates/online/v3/adframestest/memberUI_125x125_adframe.html', 'GAME_ENVIRONMENT': 'LIVE', 'FORKCOUNT': '1', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH', 'GAME_ADFRAME_BUTTON_2': 'http://apps.pirates.go.com/pirates/v3/#/news/currentnews.html', 'GAME_ADFRAME_BUTTON_3': 'http://apps.pirates.go.com/pirates/v3/#/community/community_overview.html', 'GAME_ADFRAME_BUTTON_4': 'http://apps.pirates.go.com/pirates/v3/#/players_guide/introduction.html', 'IS_TEST_SERVER': '0', 'CLIENTNAME': 'Console', 'GAME_ADFRAME_BUTTON_7': 'http://apps.pirates.go.com/pirates/v3/#/help/support_overview.html', 'FP_NO_HOST_CHECK': 'NO', 'WINDIR': 'C:\\WINDOWS', 'ADFRAME_728X90': 'http://disney.go.com/pirates/online/v3/adframestest/memberUI_728x90_adframe.html', 'DISLTOKEN': 'U2FsdGVkX1/u57wFVKvftSRTJQXagpdedduHfQtJbCVogp5kjDk2GoDVPDNmecSLBeVm2tRVK1I1dnO+4YPFVWVUmOKFSVuAGcNROYFhVdcCtaJvMAzF0vZJPOz9cUfwSA7ix67L995oEX4LhJB/XUZDUi/ebgDFr0lWhSaMpyY2fDSrGah8EUyr8D9mu7nYEh35ewd7qUAok/tZ8abQB2IqvwUkWP2OIP5BiucmIsLxI1tlLnXXGU74Z6LjtC322air9sdEbITfpAH7bzlTW9RyI7G2rZTeOowY5a39E3Hx/caVMQn0wSLGMGDuxLC/jlfir6/0XXkwT2hrXHHXWKVNHElp023KMP1N1hFuu4mDIbuMfysY+sKD5cGFci8c6SzPq4osVR2xehT7R33DKEGMz2Wjb1gNUSWLAJnnWUnr4yaJdHvx8Towuh5xc/habZGG17BoLt7oz852mnDstdsjq9nUK6UJt5XE482mdbTgVv1kcjL5vWP/qiDh4+xseSMJt1tffQdsyIXEkP0L1thE/uDLDFX84aWeEU+YSvh9/ummIuPomxrayjmoIH13T824Q+1g1mCmSM9WzcyqZ32tb4kkPC0noo8JzVILxv2iruWtBnD1+YH0gUAQrht6yT3DVSq/I0NmBwzp9S2OGUbxL0W4z8mnym4umzAIsOXkBecoRXXyv7srHufmTFMJds++ucEilLKK36bCRGPIWVzKalYQKvUHD+AiOXkYVUkAo5lUms/ffUMj90kAfO18zcuexfGY7CTk9dmYfQlOrRIIzMai8Km9/4sTXYZhKe9XmkgQwFgn0yutNplgPXK7txe1Y9Z0tqiSPCypNGQEKobF89UGljfh59s5gdaIFrfSb3AHijyMPg==', 'HOMEDRIVE': 'C:', 'SYSTEMDRIVE': 'C:', 'NUMBER_OF_PROCESSORS': '1', 'APPDATA': 'C:\\Documents and Settings\\Robert\\Application Data', 'GAME_VERSION_TEXT': 'pcsv1.0.13.2', 'USER_PIRATES_ACCESS': 'FULL', 'CONFIG_CONFIG': ':configpath=CFG_PATH', 'USERPROFILE': 'C:\\Documents and Settings\\Robert', 'OS': 'Windows_NT', 'GAME_INGAME_MOREINFO': 'http://apps.pirates.go.com/pirates/redirect?redirectId=memopts', 'PROGRAMFILES': 'C:\\Program Files'}
+generating standard configrc
+CONFIG_CONFIG is set to: :configpath=CFG_PATH
+Resetting CONFIG_CONFIG
+:11-27-2008 11:53:23 Launcher(info): isTestServer: 0
+:11-27-2008 11:53:23 Launcher(info): Download Server List http://download.piratesonline.com/english/currentVersion/content/
+:11-27-2008 11:53:23 Launcher(info): Using download server http://download.piratesonline.com/english/currentVersion/content/.
+:11-27-2008 11:53:23 Launcher(info): Game Server http://gameserver.piratesonline.com:7667;http://gameserver.piratesonline.com:80;https://gameserver.piratesonline.com:443
+:11-27-2008 11:53:23 Launcher(info): DEPRECATED setRegistry: GAMELOG_FILENAME = pirates-081127_115322.log
+:11-27-2008 11:53:23 Launcher(info): patch directory is 0
+:11-27-2008 11:53:23 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_1 = 0
+:11-27-2008 11:53:23 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_2 = 0
+:11-27-2008 11:53:23 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_3 = 0
+:11-27-2008 11:53:23 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_4 = 0
+:11-27-2008 11:53:23 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_5 = 0
+:11-27-2008 11:53:23 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_6 = 0
+:11-27-2008 11:53:23 Launcher(info): Starting Pirates Online... 
+:11-27-2008 11:53:23 Launcher(info): Proxy spec is: 
+:11-27-2008 11:53:23 Launcher(info): No proxy for download.
+:downloader: Connecting to download.piratesonline.com:80
+:11-27-2008 11:53:23 Launcher(info): Download server: http://download.piratesonline.com/english/currentVersion/content/
+:11-27-2008 11:53:23 Launcher(info): foreground: Launcher now operating in foreground
+:11-27-2008 11:53:23 Launcher(info): prepareClient: Preparing client for install
+:11-27-2008 11:53:23 Launcher(info): Downloading launcherFileDb
+:11-27-2008 11:53:23 Launcher(info): Download request: http://download.piratesonline.com/english/currentVersion/content/patcher.ver?485721571
+:11-27-2008 11:53:23 Launcher(info): maybeStartGame: starting game
+:11-27-2008 11:53:23 Launcher(info): Starting Pirates...
+:11-27-2008 11:53:23 Launcher(info): background: Launcher now operating in background
+Warning: DirectNotify: category 'Interval' already exists
+PiratesStart: Starting the game.
+:11-27-2008 11:53:24 Launcher(info): setting panda error code to 7
+Warning: DirectNotify: category 'GameOptions' already exists
+:audio:   using Miles software midi
+:11-27-2008 11:53:26 ShowBase(info): __dev__ == 0
+:display: loading display module: libpandagl.dll
+Known pipe types:
+  wglGraphicsPipe
+(2 aux display modules not yet loaded.)
+:display:windisplay: begin QueryPerformanceFrequency
+:display:windisplay: QueryPerformanceFrequency: 3579545
+:display:windisplay: CPU frequency: 1594826056
+:display:windisplay: start CPU ID
+:display:windisplay: end CPU ID
+:display:windisplay: OS version: 5.1.2.2600 
+:display:windisplay:   Service Pack 3
+:display:windisplay: max Mhz 1594000000, current Mhz 1594000000 
+:11-27-2008 11:53:20 PiratesBase(info): Default graphics pipe is OpenGL (wglGraphicsPipe).
+:11-27-2008 11:53:20 Options(info): Loaded Game Options
+:11-27-2008 11:53:20 Options(info): version = 14
+:11-27-2008 11:53:20 Options(info): state = 'working'
+:11-27-2008 11:53:20 Options(info): api = 'default'
+:11-27-2008 11:53:20 Options(info): window_width = 800
+:11-27-2008 11:53:20 Options(info): window_height = 600
+:11-27-2008 11:53:20 Options(info): fullscreen_width = 800
+:11-27-2008 11:53:20 Options(info): fullscreen_height = 600
+:11-27-2008 11:53:20 Options(info): resolution = 0
+:11-27-2008 11:53:20 Options(info): fullscreen = 0
+:11-27-2008 11:53:20 Options(info): widescreen = 0
+:11-27-2008 11:53:20 Options(info): widescreen_resolution = 0
+:11-27-2008 11:53:20 Options(info): widescreen_fullscreen = 0
+:11-27-2008 11:53:20 Options(info): reflection = 1
+:11-27-2008 11:53:20 Options(info): shader = 0
+:11-27-2008 11:53:20 Options(info): shadow = 0
+:11-27-2008 11:53:20 Options(info): texture = 1024
+:11-27-2008 11:53:20 Options(info): texture_compression = 1
+:11-27-2008 11:53:20 Options(info): sound = 1
+:11-27-2008 11:53:20 Options(info): sound_volume = 0.24384503066539764
+:11-27-2008 11:53:20 Options(info): music = 1
+:11-27-2008 11:53:20 Options(info): music_volume = 0.44155529141426086
+:11-27-2008 11:53:20 Options(info): gui_scale = 0.5
+:11-27-2008 11:53:20 Options(info): special_effects = 2
+:11-27-2008 11:53:20 Options(info): texture_scale = 0.25
+:11-27-2008 11:53:20 Options(info): character_detail_level = 0
+:11-27-2008 11:53:20 Options(info): terrain_detail_level = 0
+:11-27-2008 11:53:20 Options(info): memory = 1
+:11-27-2008 11:53:20 Options(info): mouse_look = 0
+:11-27-2008 11:53:20 Options(info): gamma = 0.0
+:11-27-2008 11:53:20 Options(info): gamma_enable = 0
+:11-27-2008 11:53:20 Options(info): cpu_frequency_warning = 1
+:11-27-2008 11:53:20 Options(info): hdr = 0
+:11-27-2008 11:53:20 Options(info): hdr_factor = 1.0
+:11-27-2008 11:53:20 Options(info): ship_visibility_from_islands = 0
+:11-27-2008 11:53:20 Options(info): simple_display_option= 3
+:display:windisplay(warning): Could not find icon filename Pirates_Adds.ico
+:display:wgldisplay(error): SetPixelFormat(46) failed after window create
+:display: Closing wglGraphicsWindow
+:display(error): Window wouldn't open; abandoning window.
+:display: loading display module: libpandadx9.dll
+:display: loading display module: libpandadx8.dll
+:display:windisplay: begin QueryPerformanceFrequency
+:display:windisplay: QueryPerformanceFrequency: 3579545
+:display:windisplay: CPU frequency: 1594825580
+:display:windisplay: start CPU ID
+:display:windisplay: end CPU ID
+:display:windisplay: OS version: 5.1.2.2600 
+:display:windisplay:   Service Pack 3
+:display:windisplay: max Mhz 1594000000, current Mhz 1594000000 
+:display:wdxdisplay9: DX 9.0c GetAvailableVidMem (including AGP) returns Total: 123592672, Free: 123592672 for device #0
+:display:wdxdisplay9: GetAvailableVidMem (no AGP) returns Total: 65396736, Free: 65396736 for device #0
+:display:wdxdisplay9: SetLowVidMem flag to 0 based on adjusted VidMemTotal: 67108864
+:11-27-2008 11:53:20 PiratesBase(info): Got aux graphics pipe DirectX9 (wdxGraphicsPipe9).
+:display:windisplay: begin QueryPerformanceFrequency
+:display:windisplay: QueryPerformanceFrequency: 3579545
+:display:windisplay: CPU frequency: 1594826788
+:display:windisplay: start CPU ID
+:display:windisplay: end CPU ID
+:display:windisplay: OS version: 5.1.2.2600 
+:display:windisplay:   Service Pack 3
+:display:windisplay: max Mhz 1594000000, current Mhz 1594000000 
+:display:wdxdisplay8: GetAvailableVidMem (including AGP) returns Total: 123592672, Free: 123592672 for device #0
+:display:wdxdisplay8: GetAvailableVidMem (no AGP) returns Total: 65396736, Free: 65396736 for device #0
+:display:wdxdisplay8: SetLowVidMem flag to 0 based on adjusted VidMemTotal: 67108864
+:11-27-2008 11:53:20 PiratesBase(info): Got aux graphics pipe DirectX8 (wdxGraphicsPipe8).
+:display:wdxdisplay9: D3D9.0 Adapter[0]: RADEON 7000 SERIES, Driver: ati2dvag.dll, DriverVersion: (6.14.10.6614)
+VendorID: 0x00001002 DeviceID: 0x00005159 SubsysID: 0x013A1002 Revision: 0x00000000
+:display:wdxdisplay9: Selected device 0 (of 1, zero-based)
+:display:windisplay(warning): Could not find icon filename Pirates_Adds.ico
+:display:wdxdisplay9(error): adapter #0 CheckDeviceType failed for surface fmt D3DFMT_A8R8G8B8
+:display:wdxdisplay9: :display:wdxdisplay9: CreateDevice failed w/out-of-vidmem, retrying at 640x480 w/16bpp buffers on adapter #0
+:display:wdxdisplay9(error): adapter #0 CheckDeviceType failed for surface fmt D3DFMT_A8R8G8B8
+:display:wdxdisplay9(fatal): Can't create any screen buffers, bailing out.
+:display:wdxdisplay9(error): Unable to create window with specified parameters.
+:display: Closing wdxGraphicsWindow9
+:display(error): Window wouldn't open; abandoning window.
+:display:wdxdisplay8: D3D8.1 Adapter[0]: RADEON 7000 SERIES, Driver: ati2dvag.dll, DriverVersion: (6.14.10.6614)
+VendorID: 0x00001002 DeviceID: 0x00005159 SubsysID: 0x013A1002 Revision: 0x00000000
+:display:windisplay(warning): Could not find icon filename Pirates_Adds.ico
+:display:wdxdisplay8: walla: device039E9050:2
+:11-27-2008 11:53:20 Launcher(info): setting panda error code to 0
+serverVersion:  pcsv1.0.13.2
+:text: Loading font /c/Program Files/Disney/Disney Online/PiratesOnline/phase_2/models/fonts/BardiT.bam
+TTAccount: accountServer from launcher:  None
+TTAccount: default accountServer:  https://account.toontown.com
+Initializing quest ladders...
+:text(warning): Creating default TextProperties for name 'purple'
+:text(warning): Creating default TextProperties for name 'orange'
+:text(warning): Creating default TextProperties for name 'maroon'
+:text(warning): Creating default TextProperties for name 'lightGold'
+Warning: DirectNotify: category 'Human' already exists
+:text: Loading font /c/Program Files/Disney/Disney Online/PiratesOnline/phase_2/models/fonts/BriosoPro_chipped.bam
+Warning: DirectNotify: category 'FriendSecretNeedsParentLogin' already exists
+Warning: DirectNotify: category 'FriendSecret' already exists
+Warning: DirectNotify: category 'FriendInviter' already exists
+Warning: DirectNotify: category 'Human' already exists
+:11-27-2008 11:53:20 PiratesClientRepository(info): Using connect method 'http'
+Warning: DirectNotify: category 'CrabAnimationMixer' already exists
+Warning: DirectNotify: category 'CrabAnimationMixer' already exists
+Warning: DirectNotify: category 'CrabAnimationMixer' already exists
+Warning: DirectNotify: category 'PhysicsWalker' already exists
+Warning: DirectNotify: category 'Inventory' already exists
+:11-27-2008 11:53:20 PiratesClientRepository(warning): Module AvatarAccessoriesManager does not define class AvatarAccessoriesManager.
+Warning: DirectNotify: category 'DistributedShipOV' already exists
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED getRegistry: DEPLOYMENT
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED getRegistry: DEPLOYMENT
+:11-27-2008 11:53:20 PiratesClientRepository(info): loginInterface: LoginDISLTokenAccount
+:11-27-2008 11:53:20 DistributedObjectGlobal(warning): ChatManager going online
+:11-27-2008 11:53:20 DistributedShipLoader(warning): ShipLoader going online
+:11-27-2008 11:53:20 PiratesBase(info): Using gameServer from launcher: http://gameserver.piratesonline.com:7667;http://gameserver.piratesonline.com:80;https://gameserver.piratesonline.com:443 
+:11-27-2008 11:53:20 PiratesClientRepository(info): Connecting to gameserver directly (no proxy).
+:11-27-2008 11:53:20 PiratesClientRepository(info): Connecting to s://gameserver.piratesonline.com:7667 via HTTP interface.
+:downloader: Connecting to download.piratesonline.com:80
+:downloader: Connecting to download.piratesonline.com:80
+:11-27-2008 11:53:20 Launcher(info): Downloading update for Initialization (0 of 6): 0%
+:11-27-2008 11:53:20 PiratesBase(info): Got window event: size=(800, 600) title="Pirates" !undecorated !fullscreen foreground !minimized open !cursor_hidden icon:Pirates_Adds.ico absolute 
+:downloader: Connecting to gameserver.piratesonline.com:7667
+:downloader: Could not read certificates.txt.
+:downloader: Could not load certificates from certificates.txt.
+:downloader: Could not read gameserver.txt.
+:downloader: Could not load certificates from gameserver.txt.
+:downloader: Connecting to w88.go.com:80
+:downloader: Connecting to download.piratesonline.com:80
+:11-27-2008 11:53:20 Launcher(info): HTTP status 200: OK
+:11-27-2008 11:53:20 Launcher(info): Downloading update for Initialization (0 of 6): 100%
+:11-27-2008 11:53:20 Launcher(info): downloadTask: Download done: http://download.piratesonline.com/english/currentVersion/content/patcher.ver?485721571
+:11-27-2008 11:53:20 Launcher(info): fileName: phase_1.mf, flag:=3 directions= 0000 0000 0000 0000 0000 0000 0000 0011
+, extract=1 required=1 optDownload=0
+:11-27-2008 11:53:20 Launcher(info): fileName: phase_2.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:11-27-2008 11:53:20 Launcher(info): fileName: phase_3.mf, flag:=0 directions= 0000 0000 0000 0000 0000 0000 0000 0000
+, extract=0 required=0 optDownload=0
+:11-27-2008 11:53:20 Launcher(info): fileName: phase_4.mf, flag:=0 directions= 0000 0000 0000 0000 0000 0000 0000 0000
+, extract=0 required=0 optDownload=0
+:11-27-2008 11:53:20 Launcher(info): fileName: phase_5.mf, flag:=0 directions= 0000 0000 0000 0000 0000 0000 0000 0000
+, extract=0 required=0 optDownload=0
+:11-27-2008 11:53:20 Launcher(info): fileName: dx9_reqd_dll.mf, flag:=5 directions= 0000 0000 0000 0000 0000 0000 0000 0101
+, extract=1 required=0 optDownload=1
+:11-27-2008 11:53:20 Launcher(info): fileName: phase_WL.mf, flag:=2 directions= 0000 0000 0000 0000 0000 0000 0000 0010
+, extract=0 required=1 optDownload=0
+:11-27-2008 11:53:20 Launcher(info): requiredInstallFiles: ['phase_1.mf', 'phase_2.mf', 'phase_3.mf', 'phase_4.mf', 'phase_5.mf', 'phase_WL.mf']
+:11-27-2008 11:53:20 Launcher(info): mfDetails[phase_1.mf] = ('v1.92', 64543236, '073ca961f7645191ffb89bd1a83884d3')
+:11-27-2008 11:53:20 Launcher(info): mfDetails[phase_2.mf] = ('v1.65', 40422686, '46735bbd081d73ef985e0ec34a40a7bf')
+:11-27-2008 11:53:20 Launcher(info): mfDetails[phase_3.mf] = ('v1.45', 47373409, 'a8254973aa528ab703a3dd4ae0f8b4c3')
+:11-27-2008 11:53:20 Launcher(info): mfDetails[phase_4.mf] = ('v1.44', 153272469, '57af5665292e33f589c84d7030fe3655')
+:11-27-2008 11:53:20 Launcher(info): mfDetails[phase_5.mf] = ('v1.38', 79788164, '9dd76f213aab48336433a029e67a9f10')
+:11-27-2008 11:53:20 Launcher(info): mfDetails[phase_WL.mf] = ('v1.19', 612160, 'cc240578bf0d7643369efb67806255af')
+:11-27-2008 11:53:20 Launcher(info): Using heavy download server http://a.download.piratesonline.com/english/currentVersion/content/.
+:11-27-2008 11:53:20 Launcher(info): currentMfname: phase_1.mf currentPhase: 1 currentPhaseIndex: 0
+:11-27-2008 11:53:20 Launcher(info): working on: ./phase_1.mf
+:11-27-2008 11:53:20 Launcher(info): file exists
+:11-27-2008 11:53:20 Launcher(info): clientSize: 64543236 expectedSize: 64543236
+:11-27-2008 11:53:20 Launcher(info): file is correct size
+:11-27-2008 11:53:20 Launcher(info): phase updating 1, 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_1 = 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_OVERALL_COMPLETE = 16
+:11-27-2008 11:53:20 Launcher(info): currentMfname: phase_2.mf currentPhase: 2 currentPhaseIndex: 1
+:11-27-2008 11:53:20 Launcher(info): working on: ./phase_2.mf
+:11-27-2008 11:53:20 Launcher(info): file exists
+:11-27-2008 11:53:20 Launcher(info): clientSize: 40422686 expectedSize: 40422686
+:11-27-2008 11:53:20 Launcher(info): file is correct size
+:11-27-2008 11:53:20 Launcher(info): phase updating 2, 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_2 = 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_OVERALL_COMPLETE = 16
+:11-27-2008 11:53:20 Launcher(info): currentMfname: phase_3.mf currentPhase: 3 currentPhaseIndex: 2
+:11-27-2008 11:53:20 Launcher(info): working on: ./phase_3.mf
+:11-27-2008 11:53:20 Launcher(info): file exists
+:11-27-2008 11:53:20 Launcher(info): clientSize: 47373409 expectedSize: 47373409
+:11-27-2008 11:53:20 Launcher(info): file is correct size
+:11-27-2008 11:53:20 Launcher(info): phase updating 3, 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_3 = 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_OVERALL_COMPLETE = 16
+:11-27-2008 11:53:20 Launcher(info): currentMfname: phase_4.mf currentPhase: 4 currentPhaseIndex: 3
+:11-27-2008 11:53:20 Launcher(info): working on: ./phase_4.mf
+:11-27-2008 11:53:20 Launcher(info): file exists
+:11-27-2008 11:53:20 Launcher(info): clientSize: 153272469 expectedSize: 153272469
+:11-27-2008 11:53:20 Launcher(info): file is correct size
+:11-27-2008 11:53:20 Launcher(info): phase updating 4, 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_4 = 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_OVERALL_COMPLETE = 16
+:audio:milesAudio(warning): No such file: audio/gunshot1.mp3
+:audio:milesAudio(warning): No such file: audio/musketCock.mp3
+:11-27-2008 11:53:20 Launcher(info): currentMfname: phase_5.mf currentPhase: 5 currentPhaseIndex: 4
+:11-27-2008 11:53:20 Launcher(info): working on: ./phase_5.mf
+:11-27-2008 11:53:20 Launcher(info): file exists
+:11-27-2008 11:53:20 Launcher(info): clientSize: 79788164 expectedSize: 79788164
+:11-27-2008 11:53:20 Launcher(info): file is correct size
+:11-27-2008 11:53:20 Launcher(info): phase updating 5, 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_5 = 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_OVERALL_COMPLETE = 16
+:11-27-2008 11:53:20 Launcher(info): currentMfname: phase_WL.mf currentPhase: 6 currentPhaseIndex: 5
+:11-27-2008 11:53:20 Launcher(info): working on: ./phase_WL.mf
+:11-27-2008 11:53:20 Launcher(info): file exists
+:11-27-2008 11:53:20 Launcher(info): clientSize: 612160 expectedSize: 612160
+:11-27-2008 11:53:20 Launcher(info): file is correct size
+:11-27-2008 11:53:20 Launcher(info): phase updating 6, 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_PHASE_COMPLETE_6 = 100
+:11-27-2008 11:53:20 Launcher(info): DEPRECATED setRegistry: PERCENT_OVERALL_COMPLETE = 20
+:11-27-2008 11:53:20 Launcher(info): ALL PHASES COMPLETE
+:11-27-2008 11:53:20 Launcher(info): cleanup: cleaning up Launcher
+:downloader: Unable to verify identity of gameserver.piratesonline.com:7667, verify error code 18
+########## startReaderPollTask Pirate
+########## stopReaderPollTask Pirate
+########## startReaderPollTask Pirate
+########## stopReaderPollTask Pirate
+:text: Loading font models/fonts/Octavian.ttf
+:pnmtext(error): Unable to find font file models/fonts/Octavian.ttf
+:11-27-2008 11:53:20 LoginScreen(info): Login response return code 0
+:11-27-2008 11:53:20 LoginScreen(info): End of DISL token parse
+:11-27-2008 11:53:20 LoginScreen(info): accountDetailRecord: ========== Account 295285327 ==========
+OpenChatEnabled: True
+WLChatEnabled: True
+CreateFriendsWithChat: True
+ChatCodeCreation: True
+PiratesAccess: 2
+FamilyAccountId: 0
+PlayerAccountId: 295285327
+PlayerName: Guest295285327
+AccountNameApproved: 0
+MaxAvatars: 4
+MaxAvatarSlots: 0
+NumFamilyMembers: 0
+FamilyMembers: []
+NumSubs: 1
+========== Sub 295285327 ==========
+Sub Id: 295285327
+Sub Owner Id: 295285327
+Sub Name: asianelephant1@comcast.net
+Sub Active: YES
+Sub Access: 2
+Sub Level: 0
+Sub MaxAvatars: 4
+Sub Concurrent: 1
+Sub Founder: 1
+================================
+
+:11-27-2008 11:53:20 PiratesClientRepository(info): *** ACCOUNT INFO ***
+:11-27-2008 11:53:20 PiratesClientRepository(info): username: Guest295285327
+:11-27-2008 11:53:20 PiratesClientRepository(info): paid: 2
+:audio:milesAudio(warning): No such file: audio/ship_rigging_std.mp3
+:text: Loading font /c/Program Files/Disney/Disney Online/PiratesOnline/phase_2/models/fonts/BriosoPro_chipped_outline.bam
+:text: Loading font /c/Program Files/Disney/Disney Online/PiratesOnline/phase_2/models/fonts/BriosoPro_bold_outline.bam
+:audio:milesAudio: Starting audio streaming thread.
+:audio:milesAudio: Starting audio streaming thread.
+:11-27-2008 11:55:28 PiratesBase(info): memory_usage:    58%
+:11-27-2008 11:55:28 PiratesBase(info): physical_memory: 423.21 / 1023.30 MB
+:11-27-2008 11:55:28 PiratesBase(info): page_file_size:  1639.73 / 2461.78 MB
+:11-27-2008 11:55:28 PiratesBase(info): virtual_memory:  1466.68 / 2047.88 MB
+:11-27-2008 11:55:28 PiratesBase(info): process_memory:  211.80 / 228.35 MB
+:11-27-2008 11:55:28 PiratesBase(info): page_file_usage: 221.33 / 230.07 MB
+:11-27-2008 11:55:28 PiratesBase(info): page_faults:     148656
+:11-27-2008 12:04:00 PiratesBase(info): Got window event: size=(800, 600) title="Pirates" !undecorated !fullscreen !foreground !minimized open !cursor_hidden icon:Pirates_Adds.ico absolute 
+New DO:450000000, dclass:PiratesDistrict
+:11-27-2008 19:10:40 PiratesBase(info): Got window event: size=(800, 600) title="Pirates" !undecorated !fullscreen foreground !minimized open !cursor_hidden icon:Pirates_Adds.ico absolute 
+:display: Resetting ParasiteBuffer
+:display: Resetting ParasiteBuffer
+:11-27-2008 19:10:40 PiratesBase(info): Got window event: origin=(0, 26) size=(1024, 712) title="Pirates" !undecorated !fullscreen foreground !minimized open !cursor_hidden icon:Pirates_Adds.ico absolute 
+:11-27-2008 19:10:40 AvatarChooser(info): AvatarChooser: wants to play slot: 0 avId: 1000008886 subId: 295285327
+:11-27-2008 19:10:40 AvatarChooser(info): AvatarChooser: acquired avatar slot: 0 avId: 1000008886 subId: 295285327
+:text: Loading font /c/Program Files/Disney/Disney Online/PiratesOnline/phase_2/models/fonts/BardiT_outline.bam
+Cannot configure initialisation option "scale" for DirectFrame
+:11-27-2008 19:10:40 PiratesClientRepository(info): Current shard is: 504000000
+:11-27-2008 19:10:40 PiratesClientRepository(info): Current shard is: 468000000
+:11-27-2008 19:10:40 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:10:40 TimeManager(info): Clock sync: startup
+frame rate: 31.6 fps|0.022d|0 avs|Loading: Port Royal|0|26260|r1s0s0t4c1e2c0t0m1|0x1002|0x5159|234.5MB|244.0MB|1023.3MB|346|nt.2.5.1|1.594,1.594
+:11-27-2008 19:10:40 TimeManager(info): Clock sync roundtrip took 351.563 ms
+:11-27-2008 19:10:40 TimeManager(info): AI time delta is -2:57 from server delta
+:11-27-2008 19:10:40 TimeManager(info): Local clock uncertainty +/- 0.176 s
+:11-27-2008 19:10:40 PiratesClientRepository(info): gotTimeSync
+:11-27-2008 19:10:40 PlayGame(warning): need to add FSM transition here
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:10:40 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:12:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:12:48 PiratesClientRepository(info): Current shard is: 468000000
+:11-27-2008 19:12:48 DistributedInventoryBase(warning): inventory timed out.  requestId = 0, inventoryId = 0, callback = <bound method QuestStatus.createLadders of <pirates.quest.QuestStatus.QuestStatus instance at 0x27F67710>>
+:11-27-2008 19:12:48 ActorInterval(warning): Unknown animation for actor: bayonet_idle_to_fight_idle
+:11-27-2008 19:12:48 PiratesBase(info): memory_usage:    80%
+:11-27-2008 19:12:48 PiratesBase(info): physical_memory: 201.26 / 1023.30 MB
+:11-27-2008 19:12:48 PiratesBase(info): page_file_size:  1491.48 / 2461.78 MB
+:11-27-2008 19:12:48 PiratesBase(info): virtual_memory:  1364.80 / 2047.88 MB
+:11-27-2008 19:12:48 PiratesBase(info): process_memory:  363.46 / 367.59 MB
+:11-27-2008 19:12:48 PiratesBase(info): page_file_usage: 371.16 / 375.36 MB
+:11-27-2008 19:12:48 PiratesBase(info): page_faults:     402992
+:downloader: Connecting to w88.go.com:80
+:downloader: Connecting to download.piratesonline.com:80
+:11-27-2008 19:12:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:12:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:12:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:12:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:12:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:12:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+DEBUG - optionIds: [4, 5, 7, 16, 14, 0]
+DEBUG: InteractGUI.optionName = Quest
+DEBUG: InteractGUI.optionName = Purchase
+DEBUG: InteractGUI.optionName = Repair
+DEBUG: InteractGUI.optionName = Sell
+DEBUG: InteractGUI.optionName = Bribe
+DEBUG: InteractGUI.optionName = Exit
+startNPCInteract
+:11-27-2008 19:12:48 DistributedNPCTownfolk(warning): stopInteract: old interact GUI still around
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:14:56 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:14:56 PiratesBase(info): memory_usage:    80%
+:11-27-2008 19:14:56 PiratesBase(info): physical_memory: 198.34 / 1023.30 MB
+:11-27-2008 19:14:56 PiratesBase(info): page_file_size:  1489.36 / 2461.78 MB
+:11-27-2008 19:14:56 PiratesBase(info): virtual_memory:  1371.22 / 2047.88 MB
+:11-27-2008 19:14:56 PiratesBase(info): process_memory:  363.51 / 378.71 MB
+:11-27-2008 19:14:56 PiratesBase(info): page_file_usage: 371.03 / 386.00 MB
+:11-27-2008 19:14:56 PiratesBase(info): page_faults:     463913
+:11-27-2008 19:14:56 DistributedShip(warning): enterClientSteering: avId: 1003614745 not found
+:11-27-2008 19:14:56 DistributedShip(warning): enterClientSteering: avId: 1007915254 not found
+:11-27-2008 19:14:56 DistributedShip(warning): enterClientSteering: avId: 1003343377 not found
+:11-27-2008 19:14:56 ActorInterval(warning): Unknown animation for actor: sword_draw
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:14:56 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:downloader: Connecting to w88.go.com:80
+:downloader: Connecting to download.piratesonline.com:80
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:14:56 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:14:56 DistributedShip(warning): enterClientSteering: avId: 1007618930 not found
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:14:56 DistributedShip(warning): enterClientSteering: avId: 1007276516 not found
+:11-27-2008 19:14:56 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:14:56 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+<frozen>:88: DeprecationWarning: integer argument expected, got float
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:14:56 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:14:56 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:14:56 DistributedShip(warning): avId: 1007915254 not found
+:11-27-2008 19:14:56 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:14:56 DistributedShip(warning): enterClientSteering: avId: 1007915254 not found
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:14:56 DistributedShip(warning): avId: 1003614745 not found
+:11-27-2008 19:14:56 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:14:56 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:14:56 DistributedShip(warning): avId: 1007276516 not found
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:14:56 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:17:04 PiratesBase(info): memory_usage:    82%
+:11-27-2008 19:17:04 PiratesBase(info): physical_memory: 175.54 / 1023.30 MB
+:11-27-2008 19:17:04 PiratesBase(info): page_file_size:  1470.48 / 2461.78 MB
+:11-27-2008 19:17:04 PiratesBase(info): virtual_memory:  1332.83 / 2047.88 MB
+:11-27-2008 19:17:04 PiratesBase(info): process_memory:  380.69 / 389.81 MB
+:11-27-2008 19:17:04 PiratesBase(info): page_file_usage: 387.54 / 396.66 MB
+:11-27-2008 19:17:04 PiratesBase(info): page_faults:     493851
+frame rate: 2.7 fps|0.499d|0 avs|Ship|128|26560|r1s0s0t4c1e2c0t0m1|0x1002|0x5159|383.8MB|390.5MB|1023.3MB|494|nt.2.5.1|1.594,1.594
+:11-27-2008 19:17:04 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:17:04 DistributedShip(warning): enterClientSteering: avId: 1007911500 not found
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:17:04 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:17:04 DistributedShip(warning): enterClientSteering: avId: 1005522519 not found
+:11-27-2008 19:17:04 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:17:04 DistributedShip(warning): enterClientSteering: avId: 1007915399 not found
+:11-27-2008 19:17:04 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:17:04 DistributedShip(warning): enterClientSteering: avId: 1007860002 not found
+:11-27-2008 19:17:04 DistributedShip(warning): enterClientSteering: avId: 1007914426 not found
+:11-27-2008 19:17:04 DistributedShip(warning): enterClientSteering: avId: 1003614745 not found
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:17:04 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:17:04 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:17:04 DistributedShip(warning): enterClientSteering: avId: 1007901732 not found
+:11-27-2008 19:17:04 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:17:04 DistributedShip(warning): avId: 1007914426 not found
+:11-27-2008 19:17:04 DistributedShip(warning): avId: 1007860002 not found
+:11-27-2008 19:17:04 DistributedShip(warning): enterClientSteering: avId: 1005824278 not found
+:11-27-2008 19:17:04 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:17:04 DistributedShip(warning): enterClientSteering: avId: 1007915905 not found
+:11-27-2008 19:17:04 DistributedShip(warning): avId: 1007915254 not found
+:11-27-2008 19:17:04 DistributedShip(warning): avId: 1005522519 not found
+:11-27-2008 19:17:04 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:17:04 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:17:04 DistributedShip(warning): avId: 1007911500 not found
+:11-27-2008 19:17:04 DistributedShip(warning): enterClientSteering: avId: 1007911878 not found
+:11-27-2008 19:17:04 DistributedShip(warning): enterClientSteering: avId: 1007726281 not found
+:11-27-2008 19:17:04 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:17:04 PiratesBase(info): memory_usage:    85%
+:11-27-2008 19:17:04 PiratesBase(info): physical_memory: 153.07 / 1023.30 MB
+:11-27-2008 19:17:04 PiratesBase(info): page_file_size:  1448.62 / 2461.78 MB
+:11-27-2008 19:17:04 PiratesBase(info): virtual_memory:  1318.32 / 2047.88 MB
+:11-27-2008 19:17:04 PiratesBase(info): process_memory:  401.74 / 403.70 MB
+:11-27-2008 19:17:04 PiratesBase(info): page_file_usage: 408.79 / 410.54 MB
+:11-27-2008 19:17:04 PiratesBase(info): page_faults:     511841
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:audio:milesAudio(warning): Could not play audio/sfx_ship_sails-unfurl.mp3: no data
+:11-27-2008 19:19:12 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:19:12 DistributedShip(warning): enterClientSteering: avId: 1007901381 not found
+:11-27-2008 19:19:12 DistributedShip(warning): enterClientSteering: avId: 1007914517 not found
+:11-27-2008 19:19:12 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:19:12 DistributedShip(warning): enterClientSteering: avId: 1007551101 not found
+:11-27-2008 19:19:12 DistributedShip(warning): avId: 1007911878 not found
+:11-27-2008 19:19:12 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:19:12 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:19:12 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:19:12 DistributedShip(warning): enterClientSteering: avId: 1007911878 not found
+:11-27-2008 19:19:12 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:19:12 DistributedShip(warning): avId: 1007911878 not found
+:11-27-2008 19:19:12 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:19:12 DistributedShip(warning): avId: 1007915399 not found
+:11-27-2008 19:19:12 DistributedShip(warning): enterClientSteering: avId: 1004904876 not found
+:11-27-2008 19:19:12 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:19:12 DistributedShip(warning): enterClientSteering: avId: 1007911878 not found
+:11-27-2008 19:19:12 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:19:12 DistributedShip(warning): avId: 1004904876 not found
+:11-27-2008 19:19:12 DistributedShip(warning): enterClientSteering: avId: 1007908897 not found
+:11-27-2008 19:19:12 DistributedShip(warning): avId: 1007908897 not found
+:11-27-2008 19:19:12 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:19:12 DistributedShip(warning): enterClientSteering: avId: 1007901381 not found
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:19:12 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:19:12 DistributedShip(warning): avId: 1007901381 not found
+:11-27-2008 19:19:12 PiratesBase(info): memory_usage:    86%
+:11-27-2008 19:19:12 PiratesBase(info): physical_memory: 141.29 / 1023.30 MB
+:11-27-2008 19:19:12 PiratesBase(info): page_file_size:  1437.57 / 2461.78 MB
+:11-27-2008 19:19:12 PiratesBase(info): virtual_memory:  1316.19 / 2047.88 MB
+:11-27-2008 19:19:12 PiratesBase(info): process_memory:  412.86 / 422.82 MB
+:11-27-2008 19:19:12 PiratesBase(info): page_file_usage: 419.71 / 429.81 MB
+:11-27-2008 19:19:12 PiratesBase(info): page_faults:     529224
+Removing controls: ship
+:util: Writing PandaNode instead of PhysicalNode
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+Exception exceptions.AttributeError: <exceptions.AttributeError instance at 0x287CA328> in <bound method SailFSM.__del__ of SailFSM FSM:SailFSM in state "InternalError"> ignored
+Exception exceptions.AttributeError: <exceptions.AttributeError instance at 0x27997940> in <bound method SailFSM.__del__ of SailFSM FSM:SailFSM in state "InternalError"> ignored
+Exception exceptions.AttributeError: <exceptions.AttributeError instance at 0x29ADFE68> in <bound method SailFSM.__del__ of SailFSM FSM:SailFSM in state "InternalError"> ignored
+Exception exceptions.AttributeError: <exceptions.AttributeError instance at 0x2A40E3C8> in <bound method SailFSM.__del__ of SailFSM FSM:SailFSM in state "InternalError"> ignored
+Exception exceptions.AttributeError: <exceptions.AttributeError instance at 0x2A40E198> in <bound method SailFSM.__del__ of SailFSM FSM:SailFSM in state "InternalError"> ignored
+Exception exceptions.AttributeError: <exceptions.AttributeError instance at 0x2A40E120> in <bound method SailFSM.__del__ of SailFSM FSM:SailFSM in state "InternalError"> ignored
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:downloader: Connecting to w88.go.com:80
+:downloader: Connecting to download.piratesonline.com:80
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 DistributedNPCTownfolk(warning): setMovie: avId: 1005752374 not found
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 DistributedNPCTownfolk(warning): setMovie: avId: 1005752374 not found
+:11-27-2008 19:21:20 Consumable(warning): Collision not found!
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+frame rate: 1.0 fps|0.940d|17 avs|Tortuga|0|26862|r1s0s0t4c1e2c0t0m1|0x1002|0x5159|426.0MB|433.7MB|1023.3MB|567|nt.2.5.1|1.594,1.594
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 ActorInterval(warning): Unknown animation for actor: gun_draw
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:21:20 Consumable(warning): Collision not found!
+:11-27-2008 19:21:20 Consumable(warning): Collision not found!
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 PiratesBase(info): memory_usage:    92%
+:11-27-2008 19:21:20 PiratesBase(info): physical_memory: 80.88 / 1023.30 MB
+:11-27-2008 19:21:20 PiratesBase(info): page_file_size:  1381.33 / 2461.78 MB
+:11-27-2008 19:21:20 PiratesBase(info): virtual_memory:  1155.11 / 2047.88 MB
+:11-27-2008 19:21:20 PiratesBase(info): process_memory:  466.48 / 466.68 MB
+:11-27-2008 19:21:20 PiratesBase(info): page_file_usage: 474.05 / 474.28 MB
+:11-27-2008 19:21:20 PiratesBase(info): page_faults:     583146
+DEBUG - optionIds: [4, 14, 9, 0]
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+DEBUG - optionIds: [4, 14, 9, 0]
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+DEBUG - optionIds: [4, 14, 9, 0]
+:11-27-2008 19:21:20 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:23:28 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+New DO:468116038, dclass:DistributedBuriedTreasure
+:11-27-2008 19:23:28 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:23:28 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:23:28 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:23:28 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:23:28 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:23:28 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:23:28 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:23:28 PiratesBase(info): memory_usage:    90%
+:11-27-2008 19:23:28 PiratesBase(info): physical_memory: 92.68 / 1023.30 MB
+:11-27-2008 19:23:28 PiratesBase(info): page_file_size:  1393.98 / 2461.78 MB
+:11-27-2008 19:23:28 PiratesBase(info): virtual_memory:  1175.33 / 2047.88 MB
+:11-27-2008 19:23:28 PiratesBase(info): process_memory:  454.27 / 468.17 MB
+:11-27-2008 19:23:28 PiratesBase(info): page_file_usage: 461.75 / 475.67 MB
+:11-27-2008 19:23:28 PiratesBase(info): page_faults:     598463
+:11-27-2008 19:23:28 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:23:28 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:23:28 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:23:28 Consumable(warning): Collision not found!
+New DO:468116337, dclass:DistributedBuriedTreasure
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:25:36 ActorInterval(warning): Unknown animation for actor: sword_draw
+:text(warning): Unknown TextGraphic: 
+frame rate: 1.7 fps|0.377d|21 avs|Tortuga|256|27162|r1s0s0t4c1e2c0t0m1|0x1002|0x5159|456.0MB|463.6MB|1023.3MB|610|nt.2.5.1|1.594,1.594
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:25:36 Consumable(warning): Collision not found!
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:25:36 Consumable(warning): Collision not found!
+Point3(1.36897, 0, -0.499528)
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:25:36 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:27:44 Consumable(warning): Collision not found!
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:27:44 Consumable(warning): Collision not found!
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:27:44 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:29:52 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:29:52 DistributedNPCTownfolk(warning): setMovie: avId: 1007197513 not found
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:29:52 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:29:52 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:29:52 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:29:52 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:29:52 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:29:52 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:29:52 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:29:52 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:29:52 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:32:00 Consumable(warning): Collision not found!
+:11-27-2008 19:32:00 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+frame rate: 1.7 fps|0.428d|21 avs|Tortuga|640|27462|r1s0s0t4c1e2c0t0m1|0x1002|0x5159|462.9MB|470.5MB|1023.3MB|633|nt.2.5.1|1.594,1.594
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:32:00 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:32:00 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:32:00 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:32:00 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:32:00 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:32:00 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:32:00 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:32:00 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:32:00 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:32:00 Consumable(warning): Collision not found!
+:11-27-2008 19:32:00 PiratesClientRepository(info): Sending heartbeat mid-frame.
+Yes I can  + talk,what I am saying must not be coming thro + 
+Yes I can talk,what  + I am saying must not be coming throu + 
+Yes I can talk,what I am sayin + g must not be coming throug + 
+Yes I can talk,what I am saying must not +  be coming through + 
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:34:08 Consumable(warning): Collision not found!
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:34:08 Consumable(warning): Collision not found!
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:34:08 PiratesBase(info): memory_usage:    92%
+:11-27-2008 19:34:08 PiratesBase(info): physical_memory: 76.76 / 1023.30 MB
+:11-27-2008 19:34:08 PiratesBase(info): page_file_size:  1377.58 / 2461.78 MB
+:11-27-2008 19:34:08 PiratesBase(info): virtual_memory:  1114.52 / 2047.88 MB
+:11-27-2008 19:34:08 PiratesBase(info): process_memory:  469.79 / 469.79 MB
+:11-27-2008 19:34:08 PiratesBase(info): page_file_usage: 477.26 / 477.26 MB
+:11-27-2008 19:34:08 PiratesBase(info): page_faults:     648383
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:34:08 Consumable(warning): Collision not found!
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+You will s + ee GM aboce anyone's head who are a ame m + 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:34:08 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): pop_properties encountered without preceding push_properties.
+:text(warning): pop_properties encountered without preceding push_properties.
+:text(warning): pop_properties encountered without preceding push_properties.
+:text(warning): pop_properties encountered without preceding push_properties.
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:36:16 PiratesBase(info): memory_usage:    92%
+:11-27-2008 19:36:16 PiratesBase(info): physical_memory: 74.79 / 1023.30 MB
+:11-27-2008 19:36:16 PiratesBase(info): page_file_size:  1376.23 / 2461.78 MB
+:11-27-2008 19:36:16 PiratesBase(info): virtual_memory:  1117.23 / 2047.88 MB
+:11-27-2008 19:36:16 PiratesBase(info): process_memory:  471.04 / 475.83 MB
+:11-27-2008 19:36:16 PiratesBase(info): page_file_usage: 478.35 / 483.32 MB
+:11-27-2008 19:36:16 PiratesBase(info): page_faults:     658258
+:text(warning): Unknown TextGraphic: 
+frame rate: 1.4 fps|0.354d|20 avs|Tortuga|896|27762|r1s0s0t4c1e2c0t0m1|0x1002|0x5159|471.0MB|478.4MB|1023.3MB|658|nt.2.5.1|1.594,1.594
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): pop_properties encountered without preceding push_properties.
+:text(warning): pop_properties encountered without preceding push_properties.
+:text(warning): pop_properties encountered without preceding push_properties.
+:text(warning): pop_properties encountered without preceding push_properties.
+:text(warning): pop_properties encountered without preceding push_properties.
+:text(warning): pop_properties encountered without preceding push_properties.
+:text(warning): pop_properties encountered without preceding push_properties.
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): pop_properties encountered without preceding push_properties.
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:36:16 Consumable(warning): Collision not found!
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:36:16 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:38:24 Consumable(warning): Collision not found!
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:38:24 PiratesBase(info): memory_usage:    93%
+:11-27-2008 19:38:24 PiratesBase(info): physical_memory: 67.74 / 1023.30 MB
+:11-27-2008 19:38:24 PiratesBase(info): page_file_size:  1370.59 / 2461.78 MB
+:11-27-2008 19:38:24 PiratesBase(info): virtual_memory:  1117.64 / 2047.88 MB
+:11-27-2008 19:38:24 PiratesBase(info): process_memory:  476.22 / 483.94 MB
+:11-27-2008 19:38:24 PiratesBase(info): page_file_usage: 483.59 / 491.31 MB
+:11-27-2008 19:38:24 PiratesBase(info): page_faults:     667859
+:11-27-2008 19:38:24 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:38:24 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:38:24 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:38:24 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:38:24 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:38:24 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:38:24 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:38:24 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:40:32 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:40:32 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:40:32 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:40:32 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:40:32 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:40:32 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:40:32 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:40:32 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:40:32 TimeManager(info): Clock sync: timer
+:11-27-2008 19:40:32 TimeManager(info): Clock sync roundtrip took 542.969 ms
+:11-27-2008 19:40:32 TimeManager(info): AI time delta is -2:49 from server delta
+:11-27-2008 19:40:32 ClockDelta(info): previous delta at -117074.484 s, +/- 0.676 s.
+:11-27-2008 19:40:32 ClockDelta(info): new delta at -117074.234 s, +/- 0.271 s.
+:11-27-2008 19:40:32 ClockDelta(info): intersection at -117074.234 s, +/- 0.273 s.
+:11-27-2008 19:40:32 TimeManager(info): Local clock uncertainty +/- 0.274 s
+frame rate: 1.1 fps|0.740d|19 avs|Tortuga|1152|28063|r1s0s0t4c1e2c0t0m1|0x1002|0x5159|484.8MB|492.0MB|1023.3MB|683|nt.2.5.1|1.594,1.594
+:11-27-2008 19:40:32 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:40:32 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:40:32 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:42:40 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:42:40 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:42:40 PiratesBase(info): memory_usage:    94%
+:11-27-2008 19:42:40 PiratesBase(info): physical_memory: 54.88 / 1023.30 MB
+:11-27-2008 19:42:40 PiratesBase(info): page_file_size:  1359.01 / 2461.78 MB
+:11-27-2008 19:42:40 PiratesBase(info): virtual_memory:  1107.59 / 2047.88 MB
+:11-27-2008 19:42:40 PiratesBase(info): process_memory:  486.77 / 488.03 MB
+:11-27-2008 19:42:40 PiratesBase(info): page_file_usage: 494.01 / 495.34 MB
+:11-27-2008 19:42:40 PiratesBase(info): page_faults:     689393
+:11-27-2008 19:42:40 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:42:40 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:42:40 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:42:40 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+There are  + lots if you click on the Skull under the Chat bo + 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:42:40 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:42:40 Consumable(warning): Collision not found!
+:11-27-2008 19:42:40 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:42:40 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+New DO:468119765, dclass:DistributedBandMember
+:11-27-2008 19:44:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:44:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+New DO:468119882, dclass:DistributedBandMember
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:44:48 PiratesBase(info): memory_usage:    95%
+:11-27-2008 19:44:48 PiratesBase(info): physical_memory: 50.53 / 1023.30 MB
+:11-27-2008 19:44:48 PiratesBase(info): page_file_size:  1354.76 / 2461.78 MB
+:11-27-2008 19:44:48 PiratesBase(info): virtual_memory:  1106.84 / 2047.88 MB
+:11-27-2008 19:44:48 PiratesBase(info): process_memory:  491.39 / 492.66 MB
+:11-27-2008 19:44:48 PiratesBase(info): page_file_usage: 498.54 / 499.89 MB
+:11-27-2008 19:44:48 PiratesBase(info): page_faults:     706962
+:11-27-2008 19:44:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:44:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:11-27-2008 19:44:48 Consumable(warning): Collision not found!
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:44:48 ActorInterval(warning): Unknown animation for actor: sword_draw
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:44:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 
+:text(warning): Unknown TextGraphic: 
+:11-27-2008 19:44:48 PiratesClientRepository(info): Sending heartbeat mid-frame.
+:text(warning): Unknown TextGraphic: 

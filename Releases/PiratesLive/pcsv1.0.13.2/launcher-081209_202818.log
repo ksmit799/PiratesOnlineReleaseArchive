@@ -1,0 +1,150 @@
+=====Log Open
+CHECKING CPU...
+CPU speed: 1594 Mhz
+CPU vendor code: Intel
+CPU vendor name: GenuineIntel
+CPU name: Intel(R) Pentium(R) 4 CPU 1.60GHz
+CPU type: Intel Pentium 4
+CPU level: 15
+CPU features: MMX, MMX Extensions, SSE, SSE FP, SSE2, 
+CHECKING OS...
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+User has NT Admin privileges
+IE Ver: 7.0.5730.13
+Mouse detected
+CHECKING RAM...
+RAM: Total: 1023.30 MB, Free: 556.61 MB, Utilization: 45%
+CHEKING VIDEO RAM...
+VRAM: Total: 117 MB
+CHECKING DISK SPACE...
+Free Disk Space: 7297 MB
+CHECKING 3D HARDWARE...
+installed DX VerStr: 4.09.00.0904
+DX Level Installed: DX 9.0
+Detected DX Card[0]: RADEON 7000 SERIES
+Driver Version: (6.14.10.6614) Date: (5/3/2006) DriverName: ati2dvag.dll; VendorID: 0x00001002; DeviceID: 0x00005159; SubsysID: 0x013A1002; Revision: 0x00000000
+Suggested GfxApi: DX 9.0
+CHECKING SOUND... Removed
+Keyboard Layout: 00000409 LangID: 0x0x0409 Locale ID: 0x0x0409
+CHECKING NET CONNECTION...
+IP Addr: 192.168.1.102
+MAC Address: 00-16-B6-9B-24-81
+IP Addr: 0.0.0.0
+ignoring IP Addr
+MAC Address: 00-03-47-D9-6B-18
+Internet connection is through a LAN
+Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+User has NT Admin privileges
+found potentially conflicting installed program: McAfee SecurityCenter
+found potentially conflicting installed program: Update for Outlook 2007 Junk Email Filter (kb957829)
+Trying To Start Splash and Sefl Path
+Cleaning old logs unlink C:\Program Files\Disney\Disney Online\PiratesOnline\launcher-081127_114428.log
+Cleaning old logs unlink C:\Program Files\Disney\Disney Online\PiratesOnline\launcher-081127_114500.log
+Cleaning old logs unlink C:\Program Files\Disney\Disney Online\PiratesOnline\launcher-081127_114511.log
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\PiratesOnline\Launcher1.exe/145
+-------->[WEB2] Setting Url To res://C:\Program Files\Disney\Disney Online\PiratesOnline\Launcher1.exe/145
+-------->[WEB3] Setting Url To res://C:\Program Files\Disney\Disney Online\PiratesOnline\Launcher1.exe/145
+****Found Command line  Varable []
+-------->[WEB1] Setting Url To http://disney.go.com/pirates/online/launcher/live/news/new_release.html
+Detail Rule [64543236 073ca961f7645191ffb89bd1a83884d3]
+Detail Rule [40422686 46735bbd081d73ef985e0ec34a40a7bf]
+Detail Rule [47373409 a8254973aa528ab703a3dd4ae0f8b4c3]
+Detail Rule [153272469 57af5665292e33f589c84d7030fe3655]
+Detail Rule [79788164 9dd76f213aab48336433a029e67a9f10]
+Detail Rule [4004393 a6c865a67ffd0c65767ee671ffedf08f]
+Omitting File dx9_reqd_dll.mf
+Detail Rule [612160 cc240578bf0d7643369efb67806255af]
+Detail Rule [64543236 073ca961f7645191ffb89bd1a83884d3]
+Detail Rule [40422686 46735bbd081d73ef985e0ec34a40a7bf]
+Detail Rule [47373409 a8254973aa528ab703a3dd4ae0f8b4c3]
+Detail Rule [153272469 57af5665292e33f589c84d7030fe3655]
+Detail Rule [79788164 9dd76f213aab48336433a029e67a9f10]
+Detail Rule [4004393 a6c865a67ffd0c65767ee671ffedf08f]
+Omitting File dx9_reqd_dll.mf
+Detail Rule [612160 cc240578bf0d7643369efb67806255af]
+Looking For FileC:\Program Files\Disney\Disney Online\PiratesOnline\phase_1.mf
+Detail Rule [64543236 073ca961f7645191ffb89bd1a83884d3]
+Detail Rule [40422686 46735bbd081d73ef985e0ec34a40a7bf]
+Detail Rule [47373409 a8254973aa528ab703a3dd4ae0f8b4c3]
+Detail Rule [153272469 57af5665292e33f589c84d7030fe3655]
+Detail Rule [79788164 9dd76f213aab48336433a029e67a9f10]
+Detail Rule [4004393 a6c865a67ffd0c65767ee671ffedf08f]
+Omitting File dx9_reqd_dll.mf
+Detail Rule [612160 cc240578bf0d7643369efb67806255af]
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_1.mf  Hash=073ca961f7645191ffb89bd1a83884d3 Size=64543236
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_2.mf  Hash=46735bbd081d73ef985e0ec34a40a7bf Size=40422686
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_3.mf  Hash=a8254973aa528ab703a3dd4ae0f8b4c3 Size=47373409
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_4.mf  Hash=57af5665292e33f589c84d7030fe3655 Size=153272469
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_5.mf  Hash=9dd76f213aab48336433a029e67a9f10 Size=79788164
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_WL.mf  Hash=cc240578bf0d7643369efb67806255af Size=612160
+Starting install check forphase_1.mf
+Updating Pirates of the Caribbean Online 0 of 1
+File operation fetch hash phase_1.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_1.mf  Hash=073ca961f7645191ffb89bd1a83884d3 Size=64543236
+File operation mf extract phase_1.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\Configrc.pre  Hash=f250f4b9489a987fdbcd67d8d6dbcf5b Size=2934
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\Phase1.pyd  Hash=435238a15832122c9ec39260bcd9fde6 Size=22773760
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\Pirates.exe  Hash=a070b714127413abd13d10e58aa9464b Size=1322496
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\Pirates_Adds.ico  Hash=474bb08c3f8a705f91d6ff262314e079 Size=19790
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libdirect.dll  Hash=906ecc94b69116d9d9426874b2642412 Size=860160
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\_ctypes.pyd  Hash=ad963705aa93d214b25fe25a781b45af Size=73728
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\_socket.pyd  Hash=b9401dc78329b53968647e990ff6f506 Size=49152
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\avcodec.dll  Hash=49c9d20e5e81ec1cd8fec532f267c5e1 Size=8105982
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\avformat.dll  Hash=e43db6e3181b0ed9b4dd60569956b3bb Size=1288378
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\avutil.dll  Hash=b08bc73f102056b0ebf997125cd84b78 Size=37915
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\bz2.pyd  Hash=2621da2a291fb992a5906652a307e0f5 Size=77824
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\cg.dll  Hash=3fb3f48b4ae5460b37036f1e90697e13 Size=2109440
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\cgD3D8.dll  Hash=fa31057a66f2c60fd03841644a395866 Size=327680
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\cgD3D9.dll  Hash=00d37f827de2f58255f6df076300714f Size=573440
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\cgGL.dll  Hash=4bd0e5ee65fea36328eaf3ee2787be4a Size=233472
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libdtool.dll  Hash=48f698fef0d1a6bb9ad96cec2c15cfd3 Size=200704
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libdtoolconfig.dll  Hash=70582ef4adcf3cf0bf45ca0f6509d0bf Size=671744
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libheapq.dll  Hash=1abcbe33fa38bc90ed6694e2aa47abe4 Size=7168
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libmiles_audio.dll  Hash=547b4964b0193d14565226218c530941 Size=110592
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libotp.dll  Hash=3a21ccefea3c178b5a545c907eca3e0b Size=401408
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libpanda.dll  Hash=e9654588d67b48128be08e18f7f4cb39 Size=12566528
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libpandadx8.dll  Hash=18bcc9a842338d0e308fcc98ad15f5d9 Size=405504
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libpandadx9.dll  Hash=a9c9648672595f00d8bc0c3abbf665a2 Size=507904
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libpandaegg.dll  Hash=78e5f5be18808dd38deaee8bea29c36c Size=1798144
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libpandaexpress.dll  Hash=2a14e9b88aed4ee44f162467990a3160 Size=1937408
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libpandafx.dll  Hash=0c089109fccba59992001473f2c334d4 Size=163840
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libpandagl.dll  Hash=07eb5f730fcbae32f0682fed683a1f6a Size=286720
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libpandaode.dll  Hash=be2bf004315b21ffb89638623f0e4839 Size=925696
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libpandaphysics.dll  Hash=0c10f31c093b9c4964e5a47dec66d06b Size=909312
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libpirates.dll  Hash=47cea7b03596a0fb6a5d835f1ca4f96b Size=229376
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\libwindisplay.dll  Hash=3f909265cd4b0fdc4f7f07845a405df4 Size=110592
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\mfc71.dll  Hash=f35a584e947a5b401feb0fe01db4a0d7 Size=1060864
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\mss32.dll  Hash=d77ed4dd18f33205effe5fad9fff4e8e Size=389120
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\mssmp3.asi  Hash=9e887cf069316dc17f387a5341f0eb02 Size=150016
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\msvcp71.dll  Hash=561fa2abb31dfa8fab762145f81667c2 Size=499712
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\msvcr71.dll  Hash=86f1895ae8c5e8b17d99ece768a70732 Size=348160
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\python24.dll  Hash=0e5460187587e5659c10b004f23fde8f Size=1867776
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\pywintypes24.dll  Hash=fffa0670f877624d2d5ed14516c7710d Size=102400
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\win32api.pyd  Hash=03d9bae2266d965474887b20c1790ff9 Size=73728
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\zlib.pyd  Hash=c49b3996b1eaa898879c0c300c151af6 Size=65536
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\xpirates.exe  Hash=25bb38b340179c87b218971e3e51528e Size=892928
+Starting install check forphase_2.mf
+Updating Pirates of the Caribbean Online 1 of 1
+File operation fetch hash phase_2.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_2.mf  Hash=46735bbd081d73ef985e0ec34a40a7bf Size=40422686
+Starting install check forphase_3.mf
+Updating Pirates of the Caribbean Online 1 of 1
+File operation fetch hash phase_3.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_3.mf  Hash=a8254973aa528ab703a3dd4ae0f8b4c3 Size=47373409
+Starting install check forphase_4.mf
+Updating Pirates of the Caribbean Online 1 of 1
+File operation fetch hash phase_4.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_4.mf  Hash=57af5665292e33f589c84d7030fe3655 Size=153272469
+Starting install check forphase_5.mf
+Updating Pirates of the Caribbean Online 1 of 1
+File operation fetch hash phase_5.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_5.mf  Hash=9dd76f213aab48336433a029e67a9f10 Size=79788164
+Starting install check forphase_WL.mf
+Updating Pirates of the Caribbean Online 1 of 1
+File operation fetch hash phase_WL.mf
+MD5 From cache =C:\Program Files\Disney\Disney Online\PiratesOnline\phase_WL.mf  Hash=cc240578bf0d7643369efb67806255af Size=612160
+Patches Up to date 
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\PiratesOnline\Launcher1.exe/145
+-------->[WEB1] Setting Url To http://disney.go.com/pirates/online/launcher/live/news/new_release.html
+-------->[WEB1] Setting Url To res://C:\Program Files\Disney\Disney Online\PiratesOnline\Launcher1.exe/145
+003D40C8 Normal Exit
